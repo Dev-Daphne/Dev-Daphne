@@ -72,15 +72,25 @@ International software profile focused on Frontend/Full-Stack development, perfo
 
 ---
 
-## 📊 Recruiting Metrics (Graphs + Percentages)
+## 📊 Recruiting Metrics (graphs + percentages)
 ### Impact summary
-```
-Sales lift:            ████████████░░░░░░░ (30%)
-Latency reduction:     ███████████░░░░░░░░░ (14%)
-Mentored students:     ████████████████░░░ (20+)
-Team projects guided: █████░░░░░░░░░░░░░░░ (5)
-Meetups / Sponsors:    █████████████░░░░░░ (6 / 10)
-```
+
+<div align="left">
+  <div><strong>Sales lift:</strong> 30%</div>
+  <img alt="Sales lift" src="https://progress-bar.dev/30/?width=900&color=%2322c55e&background=%23e5e7eb&suffix=%25" />
+
+  <div style="margin-top:10px;"><strong>Latency reduction:</strong> 14%</div>
+  <img alt="Latency reduction" src="https://progress-bar.dev/14/?width=900&color=%23ef4444&background=%23e5e7eb&suffix=%25" />
+
+  <div style="margin-top:10px;"><strong>Mentored students:</strong> 20+ (≈40% of 50 target)</div>
+  <img alt="Mentored students" src="https://progress-bar.dev/40/?width=900&color=%2360a5fa&background=%23e5e7eb&suffix=%25" />
+
+  <div style="margin-top:10px;"><strong>Teams guided:</strong> 5</div>
+  <img alt="Teams guided" src="https://progress-bar.dev/50/?width=900&color=%23a78bfa&background=%23e5e7eb&suffix=%25" />
+
+  <div style="margin-top:10px;"><strong>Meetups / Sponsors:</strong> 6 / 10</div>
+  <img alt="Meetups/sponsors" src="https://progress-bar.dev/60/?width=900&color=%23f59e0b&background=%23e5e7eb&suffix=%25" />
+</div>
 
 ### Performance & UX (at a glance)
 - 💹 Conversion/Revenue: **+30%** (UX + secure payment integrations)
@@ -88,7 +98,12 @@ Meetups / Sponsors:    █████████████░░░░░░
 
 ---
 
-## 📎 Links
+## 📎 Project page links (direct)
+- TopHome Design (2026): https://github.com/Dev-Daphne/ecommerce-tophome-design
+
+---
+
+## 🔗 Links
 - 🔗 LinkedIn: https://www.linkedin.com/in/daphneoliveira-dev
 - 🐙 GitHub: https://github.com/Dev-Daphne
 - ✉️ Email: daphne.oliveira@hotmail.com
