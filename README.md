@@ -1,54 +1,97 @@
-# 🌟 Hi, I'm Daphne Oliveira Lamonaca  
+# 🌟 Hi, I’m Daphne Oliveira Lamonaca
 
-## 👩‍💻 About Me  
-💻 Backend Developer | 🚀 AI Explorer | 🌍 Lifelong Learner  
-Passionate about **Java, JavaScript, Node.js, and Python**,  
-building scalable APIs and exploring Artificial Intelligence.  
-
-## 🛠️ Skills  
-💻 Backend Development (Java, Node.js, Python)  
-🗄️ Database Management (SQL/NoSQL)  
-🤖 Artificial Intelligence & Machine Learning  
-🔧 API Design and Optimization  
-
-## 🎯 Goals  
-✨ Contribute to innovative backend and AI projects  
-📚 Continuously grow my technical expertise  
-🌍 Collaborate in international environments  
+International software profile focused on Frontend/Full-Stack development, performance, and measurable business impact.
 
 ---
 
-## 🧰 Technologies & Tools  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+## 👩‍💻 About me
+- 🌍 Based in Cuiabá, Brazil
+- 🧠 Frontend/Full-Stack developer with strong focus on **React** + **Node.js**
+- 🚀 Builds scalable solutions with **AWS** and deployment pipelines (CI/CD)
+- 🔧 Improves UX and performance through state management and optimization
+- 🤝 Contributes to open-source with a focus on accessibility & privacy
 
 ---
 
-## 📂 Featured Projects  
-- 🌐 [Web Portfolio](https://github.com/Dev-Daphne/portfolio)  
-  Personal website showcasing my work and studies.  
-
-- 📘 [My First Repository](https://github.com/Dev-Daphne/meu-projeto)  
-  Initial project to learn Git and GitHub.  
-
----
-
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Daphne&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Daphne&layout=compact&theme=tokyonight)  
+## 🛠️ Skills
+- 💻 Programming: **Python**, **JavaScript**, **Java**
+- 🧩 Frontend: **React**
+- ⚙️ Backend: **Node.js**
+- ☁️ Cloud/DevOps: **AWS**, Docker, Render
+- 🗄️ Databases: **MySQL**, **MongoDB**
+- 🧰 Tools: Git, GitHub, Agile/Scrum
 
 ---
 
-## 📫 Contact  
-📧 daphne.oliveira@hotmail.com  
-💼 [LinkedIn](www.linkedin.com/in/daphne-oliveira-36372a337)  
-🌐 [Portfolio](https://github.com/Dev-Daphne/portfolio) 
+## 🎯 Career Highlights (measurable impact)
+- 📈 Increased client sales by **30%** through UX improvements and secure payment integrations
+- ⚡ Reduced rendering latency by **14%** by optimizing state management
+- 🎓 Mentored **20+** underprivileged students and guided **5** teams to build cloud-deployed apps
+- 🗓️ Co-organized **6** tech meetups and **1** regional hackathon (🎟️ **300+** attendees; 🏢 **10** corporate sponsors)
 
-## 🎉 Fun Facts
+---
+
+## 📌 Experience Snapshot
+### 💼 Freelance Web Developer (2024–2026)
+- 🛒 Designed and deployed responsive e-commerce websites for international clients
+- 🔒 Implemented secure payment integrations and optimized UX, increasing client sales by **30%**
+- ⚙️ Utilized React, Node.js, and AWS to build scalable solutions
+
+### 🤖 Open Source Contributor | Mozilla Foundation (Remote) (Mar 2025 – Present)
+- 🌐 Contributed to open-source React ecosystem libraries supporting **privacy** and **accessibility**
+- 🐛 Resolved **5+** high-priority bugs and optimized state management, reducing rendering latency by **14%**
+
+### 🧑‍🏫 Volunteer Frontend Instructor | UN Volunteers / PyLadies Brasil (Jan 2024 – Dec 2024)
+- 👥 Mentored **20+** underprivileged students in full-stack web development (HTML, CSS, JavaScript, Node.js)
+- 🧾 Designed a 12-week curriculum and guided **5** teams to build their first cloud-deployed applications
+
+### 🧭 Lead Tech Organizer | GDG Cuiabá / Women Who Code (Jun 2023 – Present)
+- 🧩 Co-organized **6** tech meetups and **1** regional hackathon
+- 🏢 Attracted **300+** attendees and secured **10** corporate sponsors
+- 📋 Managed speaker onboarding and cross-functional logistics using Agile methodologies
+
+---
+
+## 📣 Open Source
+- Mozilla Foundation (Remote) — Open Source Contributor (React ecosystem libraries)
+- 🐛 **5+** high-priority bug fixes; performance improvements via state management
+
+---
+
+## 🏆 Hackathon
+- 🎉 XYZ Hackathon (2025) — **2nd Place Winner**
+- 🤖 Built an AI-powered recommendation system with **Python** and **TensorFlow** (prototype in **48 hours**)
+
+---
+
+## 🗂️ Projects
+### E-commerce TopHome Design (2026)
+- ⚛️ React + TailwindCSS front-end
+- ☁️ Render hosting + CI/CD pipelines for continuous deployment
+- 🔗 Repo: https://github.com/Dev-Daphne/ecommerce-tophome-design
+
+---
+
+## 📊 Recruiting Metrics (Graphs + Percentages)
+### Impact summary
+```
+Sales lift:            ████████████░░░░░░░ (30%)
+Latency reduction:     ███████████░░░░░░░░░ (14%)
+Mentored students:     ████████████████░░░ (20+)
+Team projects guided: █████░░░░░░░░░░░░░░░ (5)
+Meetups / Sponsors:    █████████████░░░░░░ (6 / 10)
+```
+
+### Performance & UX (at a glance)
+- 💹 Conversion/Revenue: **+30%** (UX + secure payment integrations)
+- ⚡ Performance: **-14%** rendering latency (state management optimization)
+
+---
+
+## 📎 Links
+- 🔗 LinkedIn: https://www.linkedin.com/in/daphneoliveira-dev
+- 🐙 GitHub: https://github.com/Dev-Daphne
+- ✉️ Email: daphne.oliveira@hotmail.com
 
 
 
