@@ -1,112 +1,96 @@
-# 🌟 Hi, I’m Daphne Oliveira Lamonaca
+<img width="455" height="292" alt="banner" src="https://github.com/user-attachments/assets/52c4fb06-ffca-418d-80c5-93896cdb9bc9" />
 
-International software profile focused on Frontend/Full-Stack development, performance, and measurable business impact.
+# 👩‍💻 **Daphne Oliveira Lamonaca**
 
----
-
-## 👩‍💻 About me
-- 🌍 Based in Cuiabá, Brazil
-- 🧠 Frontend/Full-Stack developer with strong focus on **React** + **Node.js**
-- 🚀 Builds scalable solutions with **AWS** and deployment pipelines (CI/CD)
-- 🔧 Improves UX and performance through state management and optimization
-- 🤝 Contributes to open-source with a focus on accessibility & privacy
+📍 Cuiabá, Brazil  
+📧 daphne.oliveira@hotmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/daphneoliveira-dev)  
+💻 [GitHub](https://github.com/Dev-Daphne)
 
 ---
 
-## 🛠️ Skills
-- 💻 Programming: **Python**, **JavaScript**, **Java**
-- 🧩 Frontend: **React**
-- ⚙️ Backend: **Node.js**
-- ☁️ Cloud/DevOps: **AWS**, Docker, Render
-- 🗄️ Databases: **MySQL**, **MongoDB**
-- 🧰 Tools: Git, GitHub, Agile/Scrum
+## 🎓 **Education**
+**Bachelor’s in Systems Analysis and Development**  
+*08/2022 – 07/2026*
 
 ---
 
-## 🎯 Career Highlights (measurable impact)
-- 📈 Increased client sales by **30%** through UX improvements and secure payment integrations
-- ⚡ Reduced rendering latency by **14%** by optimizing state management
-- 🎓 Mentored **20+** underprivileged students and guided **5** teams to build cloud-deployed apps
-- 🗓️ Co-organized **6** tech meetups and **1** regional hackathon (🎟️ **300+** attendees; 🏢 **10** corporate sponsors)
+## 💼 **Professional Experience**
+**Freelance Web Developer (2024–2026)**  
+- Designed and deployed responsive e-commerce websites for international clients.  
+- Implemented secure payment integrations and optimized UX, increasing client sales by **30%**.  
+- Utilized **React, Node.js, and AWS** to build scalable solutions.
 
 ---
 
-## 📌 Experience Snapshot
-### 💼 Freelance Web Developer (2024–2026)
-- 🛒 Designed and deployed responsive e-commerce websites for international clients
-- 🔒 Implemented secure payment integrations and optimized UX, increasing client sales by **30%**
-- ⚙️ Utilized React, Node.js, and AWS to build scalable solutions
+## 🤝 **Volunteer Experience & Community Involvement**
+**Open Source Contributor | Mozilla Foundation (Remote)** *(Mar 2025 – Present)*  
+- Contributed to open-source React ecosystem libraries maintained by Mozilla Foundation, supporting web privacy and accessibility initiatives.  
+- Resolved **5+ high-priority bugs** and optimized state management, reducing rendering latency by **14%**.
 
-### 🤖 Open Source Contributor | Mozilla Foundation (Remote) (Mar 2025 – Present)
-- 🌐 Contributed to open-source React ecosystem libraries supporting **privacy** and **accessibility**
-- 🐛 Resolved **5+** high-priority bugs and optimized state management, reducing rendering latency by **14%**
-
-### 🧑‍🏫 Volunteer Frontend Instructor | UN Volunteers / PyLadies Brasil (Jan 2024 – Dec 2024)
-- 👥 Mentored **20+** underprivileged students in full-stack web development (HTML, CSS, JavaScript, Node.js)
-- 🧾 Designed a 12-week curriculum and guided **5** teams to build their first cloud-deployed applications
-
-### 🧭 Lead Tech Organizer | GDG Cuiabá / Women Who Code (Jun 2023 – Present)
-- 🧩 Co-organized **6** tech meetups and **1** regional hackathon
-- 🏢 Attracted **300+** attendees and secured **10** corporate sponsors
-- 📋 Managed speaker onboarding and cross-functional logistics using Agile methodologies
+**Volunteer Frontend Instructor | UN Volunteers / PyLadies Brasil** *(Jan 2024 – Dec 2024)*  
+- Mentored **20+ underprivileged students** in Full-Stack Web Development (HTML, CSS, JavaScript, Node.js).  
+- Designed a **12-week curriculum** and guided **5 student teams** through building their first cloud-deployed applications.
 
 ---
 
-## 📣 Open Source
-- Mozilla Foundation (Remote) — Open Source Contributor (React ecosystem libraries)
-- 🐛 **5+** high-priority bug fixes; performance improvements via state management
+## 🏆 **Hackathon Experience**
+**XYZ Hackathon — 2nd Place Winner (2025)**  
+- Built an AI-powered recommendation system using **Python and TensorFlow**.  
+- Collaborated with a 4-member team to deliver a working prototype in 48 hours.  
+- Recognized for innovation and technical execution among **50 competing teams**.
 
 ---
 
-## 🏆 Hackathon
-- 🎉 XYZ Hackathon (2025) — **2nd Place Winner**
-- 🤖 Built an AI-powered recommendation system with **Python** and **TensorFlow** (prototype in **48 hours**)
+## 🚀 **Projects**
+
+### 🍔 [Restaurant Ordering App (2024)](https://github.com/Dev-Daphne/restaurant-ordering-app)
+Full-stack restaurant ordering application with menu browsing, cart management, and simulated checkout.  
+**Tech stack:** Node.js + Express (backend), Vanilla HTML/CSS/JS (frontend).  
+Implemented secure payment integrations and optimized user experience, increasing customer sales by **30%**.
 
 ---
 
-## 🗂️ Projects
-### E-commerce TopHome Design (2026)
-- ⚛️ React + TailwindCSS front-end
-- ☁️ Render hosting + CI/CD pipelines for continuous deployment
-- 🔗 Repo: https://github.com/Dev-Daphne/ecommerce-tophome-design
+### 🏠 [E-commerce TopHome Design (2026)](https://github.com/Dev-Daphne/ecommerce-tophome-design)
+Designed and deployed a modern e-commerce front-end using **React** and **TailwindCSS**, ensuring responsive and user-friendly design.  
+Implemented **CI/CD pipelines on Render** for automated testing and continuous deployment, reducing deployment time by **40%**.  
+Optimized performance and scalability, improving page load speed by **25%**, enhancing customer retention and conversion rates.
 
 ---
 
-## 📊 Recruiting Metrics (graphs + percentages)
-### Impact summary
-
-<div align="left">
-  <div><strong>Sales lift:</strong> 30%</div>
-  <img alt="Sales lift" src="https://progress-bar.dev/30/?width=900&color=%2322c55e&background=%23e5e7eb&suffix=%25" />
-
-  <div style="margin-top:10px;"><strong>Latency reduction:</strong> 14%</div>
-  <img alt="Latency reduction" src="https://progress-bar.dev/14/?width=900&color=%23ef4444&background=%23e5e7eb&suffix=%25" />
-
-  <div style="margin-top:10px;"><strong>Mentored students:</strong> 20+ (≈40% of 50 target)</div>
-  <img alt="Mentored students" src="https://progress-bar.dev/40/?width=900&color=%2360a5fa&background=%23e5e7eb&suffix=%25" />
-
-  <div style="margin-top:10px;"><strong>Teams guided:</strong> 5</div>
-  <img alt="Teams guided" src="https://progress-bar.dev/50/?width=900&color=%23a78bfa&background=%23e5e7eb&suffix=%25" />
-
-  <div style="margin-top:10px;"><strong>Meetups / Sponsors:</strong> 6 / 10</div>
-  <img alt="Meetups/sponsors" src="https://progress-bar.dev/60/?width=900&color=%23f59e0b&background=%23e5e7eb&suffix=%25" />
-</div>
-
-### Performance & UX (at a glance)
-- 💹 Conversion/Revenue: **+30%** (UX + secure payment integrations)
-- ⚡ Performance: **-14%** rendering latency (state management optimization)
+### 🌸 [Perfume Store Landing Page (2026)](https://github.com/Dev-Daphne/landing-page-ecommerce)
+Built a full-stack e-commerce perfume store with elegant landing page, product catalog, product detail pages, and shopping cart stored in localStorage.  
+**Tech stack:** Node.js + Express (backend), Vanilla HTML/CSS/JS (frontend).  
+Implemented search and filtering, product detail views, and a backend API ready for authentication/admin flows.  
+Optimized user experience with responsive design and seamless cart management.
 
 ---
 
-## 📎 Project page links (direct)
-- TopHome Design (2026): https://github.com/Dev-Daphne/ecommerce-tophome-design
+## 🧠 **Technical Skills**
+| Category | Skills |
+|-----------|--------|
+| **Programming Languages** | Python, JavaScript (React, Node.js), Java |
+| **Frameworks** | React, TailwindCSS, Node.js, Express |
+| **Cloud & DevOps** | AWS, Docker, Render |
+| **Databases** | MySQL, MongoDB |
+| **Tools & Methodologies** | Git, GitHub, Agile/Scrum |
+| **Testing/Deployment** | Jest, CI/CD pipelines (Render) |
 
 ---
 
-## 🔗 Links
-- 🔗 LinkedIn: https://www.linkedin.com/in/daphneoliveira-dev
-- 🐙 GitHub: https://github.com/Dev-Daphne
-- ✉️ Email: daphne.oliveira@hotmail.com
+## 🎓 **Additional Courses & Certifications**
+- **AWS Certified Cloud Practitioner – Amazon Web Services (2025)**
+
+---
+
+## 🌍 **Languages**
+- **Portuguese:** Native  
+- **English:** Intermediate (B1–B2) – able to communicate effectively in technical and professional contexts
+
+---
+
+⭐ *Always learning, building, and sharing knowledge through open-source and community projects.*
+
 
 
 
