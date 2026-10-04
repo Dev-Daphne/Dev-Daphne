@@ -1,97 +1,179 @@
 <img width="456" height="72" alt="banner 2 " src="https://github.com/user-attachments/assets/803ebaa7-321a-451f-a95e-44450b69ff14" />
 
 
-# 👩‍💻 **Daphne Oliveira Lamonaca**
-
-📍 Cuiabá, Brazil  
-📧 daphne.oliveira@hotmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/daphneoliveira-dev)  
-💻 [GitHub](https://github.com/Dev-Daphne)
-
+# 👩‍💻 Daphne Oliveira Lamonaca
+ 
+📍 Cuiabá, Brazil
+📧 daphne.oliveira@hotmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/daphneoliveira-dev
+💻 GitHub: https://github.com/Dev-Daphne
+ 
+# 🚀 Site Reliability Engineer (SRE) | Cloud Infrastructure Engineer
+ 
+AWS • Kubernetes • Docker • Linux • Cisco Networking • Network Security • Automation
+ 
+Open to International, Relocation, Remote, Hybrid, Contract, and Full-Time Opportunities.
+ 
 ---
-
-## 🎓 **Education**
-**Bachelor’s in Systems Analysis and Development**  
-*08/2022 – 07/2026*
-
+ 
+## 👋 About Me
+ 
+Site Reliability Engineer (SRE) and Cloud Infrastructure professional with experience supporting high-availability production environments, data center networking, load balancing, cloud infrastructure, and operational excellence.
+ 
+My background combines AWS, Kubernetes, Docker, Linux, Cisco networking, F5 BIG-IP, Citrix NetScaler, automation, and network security practices.
+ 
+I am passionate about building resilient systems, improving reliability, automating operations, and supporting mission-critical environments.
+ 
+My experience spans Site Reliability Engineering, cloud infrastructure, networking, load balancing, and security-focused operations, enabling me to effectively support modern distributed systems and business-critical environments.
+ 
 ---
-
-## 💼 **Professional Experience**
-**Freelance Web Developer (2024–2026)**  
-- Designed and deployed responsive e-commerce websites for international clients.  
-- Implemented secure payment integrations and optimized UX, increasing client sales by **30%**.  
-- Utilized **React, Node.js, and AWS** to build scalable solutions.
-
+ 
+## 🎓 Education
+ 
+### Associate Degree in Systems Analysis and Development
+Expected Graduation: July 2026
+ 
 ---
-
-## 🤝 **Volunteer Experience & Community Involvement**
-**Open Source Contributor | Mozilla Foundation (Remote)** *(Mar 2025 – Present)*  
-- Contributed to open-source React ecosystem libraries maintained by Mozilla Foundation, supporting web privacy and accessibility initiatives.  
-- Resolved **5+ high-priority bugs** and optimized state management, reducing rendering latency by **14%**.
-
-**Volunteer Frontend Instructor | UN Volunteers / PyLadies Brasil** *(Jan 2024 – Dec 2024)*  
-- Mentored **20+ underprivileged students** in Full-Stack Web Development (HTML, CSS, JavaScript, Node.js).  
-- Designed a **12-week curriculum** and guided **5 student teams** through building their first cloud-deployed applications.
-
+ 
+## 🏆 Certifications
+ 
+✅ AWS Certified Cloud Practitioner (2025)
+ 
+🔄 Cisco Certified Network Associate (CCNA 200-301) – In Progress
+ 
+🔄 Fortinet Certified Professional (Network Security) – In Progress
+ 
 ---
-
-## 🏆 **Hackathon Experience**
-**XYZ Hackathon — 2nd Place Winner (2025)**  
-- Built an AI-powered recommendation system using **Python and TensorFlow**.  
-- Collaborated with a 4-member team to deliver a working prototype in 48 hours.  
-- Recognized for innovation and technical execution among **50 competing teams**.
-
+ 
+## 💼 Professional Experience
+ 
+### Independent Site Reliability & Infrastructure Consultant
+Remote | Self-Employed | 2022 – Present
+ 
+- Maintained 99.99% service availability through administration and support of F5 BIG-IP LTM and Citrix NetScaler platforms.
+- Engineered and supported Cisco Nexus and Catalyst infrastructure across critical Layer 2 and Layer 3 environments.
+- Configured and troubleshot OSPF and BGP routing environments supporting resilient connectivity and network stability.
+- Implemented high-availability architectures using vPC, LACP, Port-Channels, VLANs, and redundant connectivity strategies.
+- Collaborated with infrastructure, security, and application teams to deliver reliable and secure production services.
+- Strengthened DMZ security through segmentation, ACL implementation, firewall policy management, and controlled traffic flows.
+- Reduced incident resolution times through Tier 2/3 troubleshooting, root-cause analysis, and rapid restoration of production services.
+- Performed proactive monitoring, performance analysis, capacity planning, and operational improvements to enhance service reliability.
+ 
 ---
-
-## 🚀 **Projects**
-
-### 🍔 [Restaurant Ordering App (2024)](https://github.com/Dev-Daphne/restaurant-ordering-app)
-Full-stack restaurant ordering application with menu browsing, cart management, and simulated checkout.  
-**Tech stack:** Node.js + Express (backend), Vanilla HTML/CSS/JS (frontend).  
-Implemented secure payment integrations and optimized user experience, increasing customer sales by **30%**.
-
+ 
+## ☁️ Infrastructure & Cloud Projects
+ 
+### Cloud-Native Application Deployment
+ 
+- Designed and deployed containerized applications using Docker and Kubernetes following cloud-native and Site Reliability Engineering practices.
+- Implemented CI/CD pipelines and AWS-based environments to improve deployment consistency, scalability, and operational reliability.
+- Applied monitoring, troubleshooting, and operational practices supporting resilient application delivery.
+ 
+### Infrastructure Automation
+ 
+- Developed Python automation solutions for infrastructure management and operational processes.
+- Reduced manual effort and improved consistency through automation of repetitive operational tasks.
+- Increased operational efficiency and infrastructure reliability through process optimization initiatives.
+ 
 ---
-
-### 🏠 [E-commerce TopHome Design (2026)](https://github.com/Dev-Daphne/ecommerce-tophome-design)
-Designed and deployed a modern e-commerce front-end using **React** and **TailwindCSS**, ensuring responsive and user-friendly design.  
-Implemented **CI/CD pipelines on Render** for automated testing and continuous deployment, reducing deployment time by **40%**.  
-Optimized performance and scalability, improving page load speed by **25%**, enhancing customer retention and conversion rates.
-
+ 
+## 🤝 Community & Open Source
+ 
+### Open Source Contributor | Mozilla Foundation
+ 
+- Contributed performance and state-management improvements to React ecosystem libraries.
+- Delivered optimizations resulting in a 14% reduction in rendering latency.
+ 
+### Frontend Instructor | UN Volunteers & PyLadies Brasil
+ 
+- Mentored more than 20 students in software development and cloud-related projects.
+- Delivered technical guidance and career support in collaborative learning environments.
+ 
+### Hackathon Finalist
+ 
+🏆 2nd Place Among 50 Teams
+ 
+- Developed an AI-powered recommendation solution during a 48-hour engineering competition.
+ 
 ---
-
-### 🌸 [Perfume Store Landing Page (2026)](https://github.com/Dev-Daphne/landing-page-ecommerce)
-Built a full-stack e-commerce perfume store with elegant landing page, product catalog, product detail pages, and shopping cart stored in localStorage.  
-**Tech stack:** Node.js + Express (backend), Vanilla HTML/CSS/JS (frontend).  
-Implemented search and filtering, product detail views, and a backend API ready for authentication/admin flows.  
-Optimized user experience with responsive design and seamless cart management.
-
+ 
+## 🧠 Technical Skills
+ 
+### Cloud & Containers
+ 
+- AWS
+- Kubernetes
+- Docker
+- Linux
+- CI/CD
+ 
+### Networking
+ 
+- Cisco Nexus 9K/7K/5K
+- Cisco Catalyst
+- OSPF
+- BGP
+- VLANs
+- vPC
+- LACP
+- Port-Channel
+ 
+### Load Balancing
+ 
+- F5 BIG-IP LTM
+- Citrix NetScaler / ADC
+ 
+### Security
+ 
+- Network Security
+- DMZ Architecture
+- ACLs
+- Network Segmentation
+- Firewall Policies
+- Infrastructure Hardening
+- Secure Infrastructure Design
+ 
+### Automation & Development
+ 
+- Python
+- Java
+- Go
+- JavaScript
+- Node.js
+- Spring Boot
+ 
+### Databases
+ 
+- PostgreSQL
+- MySQL
+- MongoDB
+ 
 ---
-
-## 🧠 **Technical Skills**
-| Category | Skills |
-|-----------|--------|
-| **Programming Languages** | Python, JavaScript (React, Node.js), Java |
-| **Frameworks** | React, TailwindCSS, Node.js, Express |
-| **Cloud & DevOps** | AWS, Docker, Render |
-| **Databases** | MySQL, MongoDB |
-| **Tools & Methodologies** | Git, GitHub, Agile/Scrum |
-| **Testing/Deployment** | Jest, CI/CD pipelines (Render) |
-
+ 
+## 🌍 Languages
+ 
+**Portuguese:** Native
+ 
+**English:** Upper-Intermediate (B2)
+ 
+Professional communication in technical environments, documentation, meetings, collaboration with international teams, and operational support activities.
+ 
 ---
-
-## 🎓 **Additional Courses & Certifications**
-- **AWS Certified Cloud Practitioner – Amazon Web Services (2025)**
-
+ 
+## 🎯 Career Interests
+ 
+- Site Reliability Engineering (SRE)
+- Cloud Infrastructure
+- Platform Engineering
+- DevOps Engineering
+- Infrastructure Engineering
+- Network Engineering
+- Cloud Operations
+- Network Security
+ 
 ---
-
-## 🌍 **Languages**
-- **Portuguese:** Native  
-- **English:** Intermediate (B1–B2) – able to communicate effectively in technical and professional contexts
-
----
-
-⭐ *Always learning, building, and sharing knowledge through open-source and community projects.*
-
+ 
+⭐ Always learning, building, and contributing through technology, open-source communities, and continuous professional development.
 
 
 
