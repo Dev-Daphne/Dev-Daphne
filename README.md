@@ -1,4 +1,5 @@
 <img width="456" height="72" alt="banner 2 " src="https://github.com/user-attachments/assets/803ebaa7-321a-451f-a95e-44450b69ff14" />
+
 # 👩‍💻 Daphne Oliveira Lamonaca
 
 📍 Cuiabá, Brazil
